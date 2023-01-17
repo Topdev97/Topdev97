@@ -9,7 +9,7 @@
   <img src="https://cdni.iconscout.com/illustration/premium/thumb/computer-6496376-5403606.png" min-width="380px" max-width="450px" width="250px" align="left"> <br>
 </p>
 <h3 style='line-height:5px; margin-left:35px'>
-I'm Kevin Henry and an experienced web designer and developer.<br>
+I'm Roney Lao and an experienced web designer and developer.<br>
 As a full-stack developer, I have started programming when I was 10 at code school and have worked on IT company since 2017.<br>
 My experience enables me to make business success of clients.<br>
 I will devote all my soul and passion for you and your business success<br>
@@ -18,10 +18,10 @@ If you have any idea or are looking for individual developer or designer for you
 <h3>You can contact me here.</h3>
 
 <div align="center">
-  <a href="https://join.skype.com/invite/qfQw30C4Exhl" target="_blank" title="live:.cid.346a034f78d4e2f7">
+  <a href="https://join.skype.com/invite/xoW2XNA52ABk" target="_blank" title="live:.cid.1d6901f67109c6f4">
     <img src="https://img.shields.io/badge/Skype-blue?style=for-the-badge&logo=skype&logoColor=white" alt="Skype"/>
   </a>
-  <a href="mailto:luckydeveloper1113@gmail.com" target="_blank" title="luckydeveloper1113@gmail.com">
+  <a href="mailto:laoroney1113@gmail.com" target="_blank" title="laoroney1113@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gamil"/>
   </a>
   <a href="https://t.me/luckydeveloper1113" target="_blank" title="@luckydeveloper113">
