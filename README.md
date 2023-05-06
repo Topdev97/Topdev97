@@ -1,4 +1,4 @@
-# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Welcome+to+my+profile.+:)"></div>
+# <div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=&size=34&pause=1001&vCenter=true&width=1000&lines=Web+&+App+&+BlockChain Developer></div>
 <!-- <h1 align="center">
   <img src="https://emoji-uc.akamaized.net/orig/53/5ed6658a06fe268af0d1959f2ca48e.png" width="28">
   Hi, Nice to meet you.
