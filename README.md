@@ -9,13 +9,7 @@
   <img src="https://cdni.iconscout.com/illustration/premium/thumb/computer-6496376-5403606.png" min-width="380px" max-width="450px" width="250px" align="left"> <br>
 </p>
 <h3 style='line-height:5px; margin-left:35px'>
-I'm Script Savior and an experienced web designer and developer.<br>
-As a full-stack developer, I have started programming when I was 10 at code school and have worked on IT company since 2017.<br>
-My experience enables me to make business success of clients.<br>
-I will devote all my soul and passion for you and your business success<br>
-If you have any idea or are looking for individual developer or designer for your project, please contact me ANYTIME!
-</h3>
-<h3>You can contact me here.</h3>
+Hi, I am a Full Stack Blockchain Developer. I own a strong hold on different skills such as HTML, CSS, JavaScript, TypeScript, Python, SmartPy, Solidity, Move, Rust, Vue, Nuxt, Qusasar, React JS, React-Native, Next, Node, MongoDB and EVM, Tezos, Aptos, Solana, etc. I've started my freelancing career in 2016 and succeeding it until now. I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.
 
 <div align="center">
   <a href="https://join.skype.com/invite/xoW2XNA52ABk" target="_blank" title="live:.cid.1d6901f67109c6f4">
