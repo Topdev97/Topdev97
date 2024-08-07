@@ -4,7 +4,7 @@
 Hi, I am a Full Stack Software Engineer. 
 I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.   
 ✅  Skill set <br>
-🔹 ReactJS, React Native, Flutter,Vue, Angular, Next.js, Nuxt.js<br>
+🔹 ReactJS, React Native, Flutter,Vue, Angular, Next.js, Nuxt.js, Svelte<br>
 🔹 NodeJS, Express, Laravel, Django<br>
 🔹 Blockchain, Ethereum, Smart Contract, Solidity, Web3<br>
 🔹 SQL(MySQL,), NoSQL(MongoDB, CouchDB), Firebase<br>
