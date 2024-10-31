@@ -1,9 +1,10 @@
 
 ### Software Engineer
-
-Hi, I am a Full Stack Software Engineer. 
-I've done multiple projects on website and web app development. I'm also engaged with different freelancing platforms, from where I've created a trusted bond with my clients by offering them tremendous services.   
-✅  Skill set <br>
+Hi.
+I'm a passionate full-stack developer with expertise across a wide array of modern web and blockchain technologies. 
+My main focus is building responsive, high-performance applications and delivering clean, scalable code. 
+Below is a summary of my technical expertise:  
+<br>
 -ReactJS, React Native, Flutter,Vue, Angular, Next.js, Nuxt.js, Svelte<br>
 -NodeJS, Express, Laravel, Django<br>
 -Blockchain, Ethereum, Smart Contract, Solidity, Web3<br>
