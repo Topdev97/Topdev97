@@ -17,7 +17,7 @@ Technologies: Ethereum, Solidity, Smart Contracts, Web3<br>
 -Databases<br>
 SQL: MySQL, Azure SQL<br>
 NoSQL: MongoDB, CouchDB, Firebase<br>
-Programming & Tools<br>
+-Programming & Tools<br>
 Languages: JavaScript, TypeScript, PHP, Python<br>
 Libraries & Tools: jQuery, Socket.IO, Asyncio, Webpack, Gulp, Babel<br>
 -Additional Skills<br>
