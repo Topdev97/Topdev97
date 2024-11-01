@@ -15,9 +15,3 @@ Below is a summary of my technical expertise:
 -Webpack, Gulp, Babel<br>
 -UI/UX, Responsive Web Design<br>
 -Python webscraping<br>
-
-<h1 align="center"></h1>
-<img align="left" height="150px" src="https://github-readme-stats.vercel.app/api?username=Topdev97&show_icons=true&count_private=true&theme=algolia"/>
-<img align="right" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Topdev97&layout=compact&theme=algolia&count_private=true" /> 
-<img height="150px" />
-<br/>  
